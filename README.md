@@ -3,7 +3,7 @@
 
 <h2 align="center">Hi there! <img loading="lazy" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"/> I'm Jagat Singh</h2>
 
-![FullStack Developer Banner](https://github.com/user-attachments/assets/cf8f35c6-d513-42a3-b1cd-049625f115a8)
+![FullStack Developer Banner](https://github.com/user-attachments/assets/6f013d8b-80f3-48eb-aa42-193b57301b44)
 
 <h2 align="center">FullStack Developer | JavaScript | React | Node.js | MongoDB | SQL | Passionate Problem Solver</h2>
 
