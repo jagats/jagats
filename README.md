@@ -9,7 +9,7 @@
 ### About Me 🤓
 Hello everyone, I'm **Jagat Pal Singh**, a Full Stack Software Developer with 3+ years of hands-on experience building scalable, production-grade web applications using React.js, Next.js, Node.js, GraphQL, and MySQL. I specialize in architecting AI-native features — including LLM integrations, RAG pipelines, and autonomous AI agents.
 
-- 🔭 I'm currently working on **multilingual (English/Arabic) web applications with React, Next.js, GraphQL, and Headless WordPress at DVIO Digital**
+- 🔭 I'm currently working on **multilingual (English/Arabic) web applications with React, Next.js, GraphQL, and Headless WordPress**
 - 🌱 I'm currently learning **advanced AI Agents, RAG pipelines, and LangChain**
 - 👯 I love collaborating on **open-source projects and hackathons**
 - 👨‍💻 All of my projects are available at **[My GitHub Repositories](https://github.com/jagats?tab=repositories)**
